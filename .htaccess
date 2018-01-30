@@ -1,2 +1,2 @@
 #Liste des erreurs courantes.
-ErrorDocument 404 /error_404.html
+ErrorDocument 404 /404.html
