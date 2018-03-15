@@ -1,0 +1,19 @@
+# Name of your blog (this will show up at the top of your page and in the RSS feed)
+name: Convergences & Détournements
+
+# Short description (goes below the title; it will also be used in the RSS feed)
+description: À mi-chemin entre un outil d'éducation populaire et un pastiche de la revue Le Voleur, Convergences & Détournements accompagne toutes et tous dans leurs premiers pas vers les luttes sociales.
+
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+url: http://convergences.github.io/D/
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+title: Affiches
+redirect_from:
+  - /affiches.html
+  - /affiches
