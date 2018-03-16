@@ -13,7 +13,5 @@ plugins:
 whitelist:
   - jekyll-redirect-from
 
-title: Affiches
-redirect_from:
-  - /affiches.html
-  - /affiches
+title: affiches.html
+redirect_from: /affiches
